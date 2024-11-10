@@ -1,7 +1,7 @@
 Gladiators Battle - Overview
 Welcome to the official documentation and overview repository for Gladiators Battle, the ultimate browser-based strategy game set in the grandeur and brutality of Ancient Rome. In Gladiators Battle, you’ll collect, train, and deploy legendary gladiator cards, face fierce opponents in both PvP and AI battles, and rise to glory in the arena. This repository is your go-to resource for all things Gladiators Battle: gameplay mechanics, strategic guides, historical insights, and exclusive feature walkthroughs.
 
-🌐 Visit the Official Website: Gladiators Battle
+🌐 Visit the Official Website: [Gladiators Battle](https://gladiatorsbattle.com/)
 
 Table of Contents
 About Gladiators Battle
